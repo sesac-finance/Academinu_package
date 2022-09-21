@@ -15,5 +15,5 @@
 * >Legion : 크롤링된 데이터들이 xlsx형식으로 저장되는 폴더
 * >\Mod : 텔레그램 토큰 보관 폴더
 * >\Mod\telegram_config : 텔레그램 토큰 키 보관 파일 
-
-
+***
+### Wiki : Study 자료들

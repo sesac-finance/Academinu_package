@@ -7,10 +7,10 @@
 ***
 ### Structure
 ---
-*  urls.txt    : 크롤링 사이트 주소
 *  README.md   : 가이드
-*  Main.ipynb  : 메인 구동 파일
-*  enpyoung.py : 동단위 크롤링 세부 주소들
+*  urls.txt    : 크롤링 사이트 주소
+*  crawlling.py : 크롤링 수집 주소 파일
+*  preprocessing.py  : 데이터 전처리 파일
 *  bot_start.py : 텔레그램 봇 자동화 파일
 
 * >Legion : 크롤링된 데이터들이 xlsx형식으로 저장되는 폴더

@@ -9,7 +9,7 @@
 ---
 *  README.md   : 가이드
 *  urls.txt    : 크롤링 사이트 주소
-*  crawlling.py : 크롤링 수집 주소 파일
+*  crawlling.py : 크롤링 수집 파일
 *  preprocessing.py  : 데이터 전처리 파일
 *  bot_start.py : 텔레그램 봇 자동화 파일
 

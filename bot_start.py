@@ -3,7 +3,7 @@ import time
 
 telegram_config = {}
 # config 파일 읽기
-with open('./Mod/telegram_config', 'r') as f:
+with open('/./Academinu_package/Mod/telegram_config', 'r') as f:
     # 모든 줄 읽어오기
     configs = f.readlines()
     # 한 줄씩 확인해서

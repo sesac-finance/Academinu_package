@@ -31,6 +31,8 @@ def crawl(url):
 
   return P_list
 
+#지속적인 전처리 실행시 해당 사이트의 봇방지 프로그램 작동으로 전처리실행이 안될수 있음!!!
+
 #수색동
 su = crawl(cw.url_susaek)
 su.to_excel('./Legion/수색.xlsx')
